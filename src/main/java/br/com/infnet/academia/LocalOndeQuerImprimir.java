@@ -1,2 +1,5 @@
-package br.com.infnet.academia;public interface LocalOndeQuerImprimir {
+package br.com.infnet.academia;
+
+public interface LocalOndeQuerImprimir {
+
 }
